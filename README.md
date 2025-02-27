@@ -24,4 +24,5 @@ To stop nginx run `sudo nginx -s stop`
 ### Tunnel through Ngrok
 
 `ngrok http 8080`
-The port doesn't matter, make sure it's the `listen` one from nginx config
+The port doesn't matter, make sure 
+hescrtreHkit's the `listen` one from nginx config
